@@ -7,8 +7,10 @@ import org.junit.Test;
 import hu.bme.mit.train.interfaces.TrainSensor;
 import hu.bme.mit.train.system.TrainSystem;
 
+
 public class TrainSensorTest {
     TrainSensor sensor;
+
 
     @Before
     public void before() {

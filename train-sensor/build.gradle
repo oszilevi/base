@@ -1,4 +1,5 @@
 dependencies {
+    compile project(':train-system')
     compile project(':train-interfaces')
     compile project(':train-user')
 
