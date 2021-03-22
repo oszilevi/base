@@ -128,3 +128,42 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 
 # End of https://www.gitignore.io/api/gradle,java,eclipse,intellij
+/train-tachograph/build/sonar/.sonar_lock
+/train-tachograph/build/reports/tests/test/css/base-style.css
+/train-tachograph/build/reports/jacoco/test/html/jacoco-resources/branchfc.gif
+/train-tachograph/build/reports/jacoco/test/html/jacoco-resources/branchnc.gif
+/train-tachograph/build/reports/jacoco/test/html/jacoco-resources/branchpc.gif
+/train-tachograph/build/reports/jacoco/test/html/jacoco-resources/bundle.gif
+/train-tachograph/build/reports/jacoco/test/html/jacoco-resources/class.gif
+/train-tachograph/build/reports/jacoco/test/html/jacoco-resources/down.gif
+/train-tachograph/build/reports/jacoco/test/html/jacoco-resources/greenbar.gif
+/train-tachograph/build/reports/jacoco/test/html/jacoco-resources/group.gif
+/train-tachograph/build/reports/tests/test/packages/hu.bme.mit.train.tachograph.html
+/train-tachograph/build/reports/tests/test/classes/hu.bme.mit.train.tachograph.TestTachograph.html
+/train-tachograph/build/reports/jacoco/test/html/hu.bme.mit.train.tachograph/index.html
+/train-tachograph/build/reports/jacoco/test/html/index.html
+/train-tachograph/build/reports/tests/test/index.html
+/train-tachograph/build/reports/jacoco/test/html/hu.bme.mit.train.tachograph/index.source.html
+/train-tachograph/build/reports/jacoco/test/html/jacoco-sessions.html
+/train-tachograph/build/reports/jacoco/test/html/jacoco-resources/method.gif
+/train-tachograph/build/test-results/test/binary/output.bin
+/train-tachograph/build/test-results/test/binary/output.bin.idx
+/train-tachograph/build/reports/jacoco/test/html/jacoco-resources/package.gif
+/train-tachograph/build/reports/jacoco/test/html/jacoco-resources/prettify.css
+/train-tachograph/build/reports/jacoco/test/html/jacoco-resources/prettify.js
+/train-tachograph/build/reports/jacoco/test/html/jacoco-resources/redbar.gif
+/train-tachograph/build/reports/jacoco/test/html/jacoco-resources/report.css
+/train-tachograph/build/reports/jacoco/test/html/jacoco-resources/report.gif
+/train-tachograph/build/reports/tests/test/js/report.js
+/train-tachograph/build/sonar/report-task.txt
+/train-tachograph/build/test-results/test/binary/results.bin
+/train-tachograph/build/reports/jacoco/test/html/jacoco-resources/session.gif
+/train-tachograph/build/reports/jacoco/test/html/jacoco-resources/sort.gif
+/train-tachograph/build/reports/jacoco/test/html/jacoco-resources/sort.js
+/train-tachograph/build/reports/jacoco/test/html/jacoco-resources/source.gif
+/train-tachograph/build/reports/tests/test/css/style.css
+/train-tachograph/build/jacoco/test.exec
+/train-tachograph/build/test-results/test/TEST-hu.bme.mit.train.tachograph.TestTachograph.xml
+/train-tachograph/build/reports/jacoco/test/html/hu.bme.mit.train.tachograph/TrainTachograph.html
+/train-tachograph/build/reports/jacoco/test/html/hu.bme.mit.train.tachograph/TrainTachograph.java.html
+/train-tachograph/build/reports/jacoco/test/html/jacoco-resources/up.gif
